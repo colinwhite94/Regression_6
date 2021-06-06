@@ -1,0 +1,2 @@
+# Stat_Regression_6
+We want to spur economic growth. In order to do that we want to find a way to predict economic growth to know it’s causes. We are trying to see if various variables from (gdp_sub.csv) can predict economic growth. If the gdp_sub.csv data passes the LINE assumptions, we can fit a MLR model to the data and use it to predict the economic growth of countries. This would work by taking a measure of one or more variables (economic indicators) from gdp_sub.csv, plugging it into the MLR model, and the model predicting the economic growth of that country.
